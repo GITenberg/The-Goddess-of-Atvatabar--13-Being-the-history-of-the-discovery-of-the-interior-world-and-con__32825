@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36064
     wikipedia: http://en.wikipedia.org/wiki/William_R._Bradshaw
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32825#The-Goddess-of-Atvatabar--13-Being-the-history-of-the-discovery-of-the-interior-world-and-con_
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2010-06-15'
 gutenberg_type: Text
